@@ -32,3 +32,7 @@ An interactive command-line Sudoku game built in Python that generates a unique 
 - **Libraries:** `random` (built-in, no installation needed)
 
 ---
+## Author
+
+**Rageni M**
+- GitHub: [@Dira777](https://github.com/Dira777)
